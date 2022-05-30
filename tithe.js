@@ -27,3 +27,5 @@ calculator.addEventListener('click', tithe);
 // document.querySelector(
 //   '.tithe-value'
 // ).textContent = `Your tithe is  £${Math.trunc(tithe)}.00`;
+
+console.log('parko');
